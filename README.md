@@ -5,4 +5,4 @@ Landing page:
 ![cb0d55fdc3462ea91c6b4c7b5fc28636](https://github.com/zafeera1/Note-Day-planner/assets/142850725/ee00b0b0-f27f-4da8-80e4-2a94a725453a)
 
 
-Deployed Link:
+Deployed Link:https://github.com/zafeera1/Note-Day-planner
